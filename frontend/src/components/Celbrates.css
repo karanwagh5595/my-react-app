@@ -1,0 +1,42 @@
+.item-banner.style6 .inner {
+    background-image: url('../assets/banner-home-4.jpg');
+    border-radius: 0;
+   
+}
+
+.item-banner .inner {
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    position: relative;
+    background-color: #f5f5f5;
+}
+
+.item-banner.style6 .banner-content {
+    padding-left: 0;
+    padding-bottom: 180px;
+    padding-right: 0;
+    padding-top: 180px;
+}
+
+.item-banner .gnash-subtitle {
+    color: #8eb359;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 0 0 5px;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    font-family: 'Jost';
+}
+
+.item-banner.style6 .title {
+    font-size: 44px;
+    margin-bottom: 20px;
+    line-height: 1.2;
+}
+
+.item-banner .title {
+    font-weight: 500;
+    line-height: 1;
+    text-transform: capitalize;
+}

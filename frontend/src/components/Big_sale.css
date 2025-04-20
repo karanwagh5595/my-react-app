@@ -1,0 +1,55 @@
+.banner-wrapp
+{
+    padding: 60px 0px 0px 0px;
+}
+
+.item-banner.style12 .inner {
+     background-image: url('../assets/banner-home-10.jpg');
+    background-size: cover;
+     
+}
+
+.item-banner.style12.type2 .inner {
+    background-image: url('../assets/banner-home-11.jpg');
+}
+
+.item-banner.style12 .banner-content {
+    padding-top: 49px;
+    padding-right: 160px;
+    padding-bottom: 53px;
+    padding-left: 23px;
+    margin-bottom: 30px;
+}
+
+.item-banner .inner {
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    position: relative;
+    background-color: #f5f5f5;
+}
+
+.item-banner .button {
+    color: #000;
+    background-color: transparent;
+    padding-right: 0;
+    padding-left: 0;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-right: 5px;
+    border-radius: 0;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    font-size: 16px;
+}
+
+.item-banner .gnash-subtitle {
+    color: #8eb359;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 0 0 5px;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    font-family: 'Jost';
+}
